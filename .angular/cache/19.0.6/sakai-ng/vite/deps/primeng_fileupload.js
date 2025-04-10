@@ -8,10 +8,10 @@ import {
 } from "./chunk-WVURSMYI.js";
 import "./chunk-JUE27LR2.js";
 import "./chunk-B7RAL64C.js";
-import "./chunk-5G7WYC4N.js";
 import {
   Ripple
 } from "./chunk-LASKZYZ4.js";
+import "./chunk-5G7WYC4N.js";
 import {
   BaseComponent
 } from "./chunk-455IQI36.js";
@@ -34,8 +34,6 @@ import {
   transition,
   trigger
 } from "./chunk-4QKMOSD7.js";
-import "./chunk-HPJ7G2KL.js";
-import "./chunk-F66ERJZA.js";
 import {
   DomSanitizer
 } from "./chunk-EI66AYUA.js";
@@ -43,6 +41,8 @@ import {
   HttpClient,
   HttpEventType
 } from "./chunk-VY6NIPAV.js";
+import "./chunk-HPJ7G2KL.js";
+import "./chunk-F66ERJZA.js";
 import {
   CommonModule,
   NgClass,

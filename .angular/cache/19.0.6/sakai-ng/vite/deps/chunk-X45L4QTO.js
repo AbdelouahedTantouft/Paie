@@ -12,15 +12,15 @@ import {
   SharedModule
 } from "./chunk-5LO3NCPH.js";
 import {
+  equals,
+  resolveFieldData
+} from "./chunk-F66ERJZA.js";
+import {
   FormsModule,
   NG_VALUE_ACCESSOR,
   NgControlStatus,
   NgModel
 } from "./chunk-XGVA53LS.js";
-import {
-  equals,
-  resolveFieldData
-} from "./chunk-F66ERJZA.js";
 import {
   CommonModule,
   NgClass,
@@ -1292,4 +1292,4 @@ export {
   SelectButton,
   SelectButtonModule
 };
-//# sourceMappingURL=chunk-2BPCOW2O.js.map
+//# sourceMappingURL=chunk-X45L4QTO.js.map

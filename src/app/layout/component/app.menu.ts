@@ -78,7 +78,7 @@ export class AppMenu {
               {
                 label: "Type prêts ",
                 icon: "pi pi-fw pi-address-book",
-                routerLink: ["/auth/error"],
+                routerLink: ["/pages/prets"],
               },
             ],
           },

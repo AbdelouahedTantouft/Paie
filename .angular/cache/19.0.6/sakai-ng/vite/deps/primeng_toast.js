@@ -13,8 +13,8 @@ import {
 } from "./chunk-WVURSMYI.js";
 import "./chunk-JUE27LR2.js";
 import "./chunk-B7RAL64C.js";
-import "./chunk-5G7WYC4N.js";
 import "./chunk-LASKZYZ4.js";
+import "./chunk-5G7WYC4N.js";
 import {
   BaseComponent
 } from "./chunk-455IQI36.js";

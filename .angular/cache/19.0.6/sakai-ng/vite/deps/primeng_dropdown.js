@@ -4,8 +4,8 @@ import {
   Scroller
 } from "./chunk-KENNQFH5.js";
 import {
-  InputIcon
-} from "./chunk-W2X2BTG3.js";
+  IconField
+} from "./chunk-T4UFRO6I.js";
 import {
   Tooltip,
   TooltipModule
@@ -13,11 +13,11 @@ import {
 import {
   InputText,
   InputTextModule
-} from "./chunk-MCXVP3PG.js";
+} from "./chunk-2F66LYEA.js";
 import "./chunk-F7A4PITP.js";
 import {
-  IconField
-} from "./chunk-T4UFRO6I.js";
+  InputIcon
+} from "./chunk-W2X2BTG3.js";
 import {
   BlankIcon,
   CheckIcon,
@@ -29,10 +29,10 @@ import {
   AutoFocus,
   AutoFocusModule
 } from "./chunk-JUE27LR2.js";
-import "./chunk-5G7WYC4N.js";
 import {
   Ripple
 } from "./chunk-LASKZYZ4.js";
+import "./chunk-5G7WYC4N.js";
 import {
   BaseComponent
 } from "./chunk-455IQI36.js";
@@ -57,9 +57,6 @@ import {
   uuid
 } from "./chunk-XQWLMVU4.js";
 import "./chunk-4QKMOSD7.js";
-import {
-  NG_VALUE_ACCESSOR
-} from "./chunk-XGVA53LS.js";
 import "./chunk-HPJ7G2KL.js";
 import {
   deepEquals,
@@ -70,6 +67,9 @@ import {
   isPrintableCharacter,
   resolveFieldData
 } from "./chunk-F66ERJZA.js";
+import {
+  NG_VALUE_ACCESSOR
+} from "./chunk-XGVA53LS.js";
 import {
   CommonModule,
   NgClass,
