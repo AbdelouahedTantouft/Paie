@@ -78,7 +78,7 @@ export class AppMenu {
               {
                 label: "Type prêts ",
                 icon: "pi pi-fw pi-address-book",
-                routerLink: ["/pages/prets"],
+                routerLink: ["/pages/loan-management"],
               },
             ],
           },
@@ -160,7 +160,7 @@ export class AppMenu {
                   {
                     label: "Edition bulletin",
                     icon: "pi pi-fw pi-home",
-                    routerLink: ["/"],
+                    routerLink: ["/ "],
                   },
                   {
                     label: "Envoyer mail: bulletins salariés",
@@ -183,7 +183,7 @@ export class AppMenu {
               {
                 label: "Dashboard",
                 icon: "pi pi-fw pi-home",
-                routerLink: ["/"],
+                routerLink: ["/pages/payroll-edition"],
               },
             ],
           },

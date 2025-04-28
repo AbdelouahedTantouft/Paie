@@ -8,12 +8,13 @@ import { Landing } from "./landing/landing";
 import { FicheSalarieComponent } from "./fiche-salarie/fiche-salarie.component";
 import { ImportationVarComponent } from "./importation-var/importation-var.component";
 import { PrametrageComptesComponent } from "./prametrage-comptes/prametrage-comptes.component";
-import { PretsComponent } from "./prets/prets.component";
+import { LoanManagementComponent } from "./loan-management/loan-management.component";
 import { CalculPaieComponent } from "./calcul-paie/calcul-paie.component";
 import { PaysVillesComponent } from "./pays-villes/pays-villes.component";
 import { AnnualTreatmentComponent } from "./Cloture/annual-treatment/annual-treatment.component";
 import { RubriqueAddComponent } from "./rubriques/rubrique-add/rubrique-add.component";
 import { RubriqueViewComponent } from "./rubriques/rubrique-view/rubrique-view.component";
+import { PayrollEditionComponent } from "./payroll-edition/payroll-edition.component";
 
 export default [
   { path: "pays-ville", component: PaysVillesComponent },
@@ -24,8 +25,10 @@ export default [
   { path: "company-list", component: CompanyComponent },
   { path: "fiche-salarie", component: FicheSalarieComponent },
   { path: "importation-var", component: ImportationVarComponent },
+  { path: "payroll-edition", component: PayrollEditionComponent },
+
   { path: "prametrage-compte", component: PrametrageComptesComponent },
-  { path: "prets", component: PretsComponent },
+  { path: "loan-management", component: LoanManagementComponent },
   { path: "calcul-paie", component: CalculPaieComponent },
   { path: "Cloture/annual-treatment", component: AnnualTreatmentComponent },
   { path: "rubriques/rubrique-add", component: RubriqueAddComponent },
